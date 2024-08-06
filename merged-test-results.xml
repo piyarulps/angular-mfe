@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<testsuites>
+<testsuite name="AppComponent" errors="0" failures="0" skipped="0" timestamp="2024-08-06T13:44:58" time="1.852" tests="3">
+  
+  <testcase classname="AppComponent should create the app" name="AppComponent should create the app" time="0.145"></testcase>
+  
+  <testcase classname="AppComponent should have the &apos;project1&apos; title" name="AppComponent should have the &apos;project1&apos; title" time="0.015"></testcase>
+  
+  <testcase classname="AppComponent should render title" name="AppComponent should render title" time="0.024"></testcase>
+  
+</testsuite>
+
+<testsuite name="AppComponent" errors="0" failures="0" skipped="0" timestamp="2024-08-06T13:32:59" time="1.784" tests="3">
+  
+  <testcase classname="AppComponent should create the app" name="AppComponent should create the app" time="0.09"></testcase>
+  
+  <testcase classname="AppComponent should have the &apos;project2&apos; title" name="AppComponent should have the &apos;project2&apos; title" time="0.011"></testcase>
+  
+  <testcase classname="AppComponent should render title" name="AppComponent should render title" time="0.018"></testcase>
+  
+</testsuite>
+
+<testsuite name="AppComponent" errors="0" failures="0" skipped="0" timestamp="2024-08-06T13:45:03" time="1.881" tests="3">
+  
+  <testcase classname="AppComponent should create the app" name="AppComponent should create the app" time="0.126"></testcase>
+  
+  <testcase classname="AppComponent should have the &apos;project3&apos; title" name="AppComponent should have the &apos;project3&apos; title" time="0.016"></testcase>
+  
+  <testcase classname="AppComponent should render title" name="AppComponent should render title" time="0.022"></testcase>
+  
+</testsuite>
+
+</testsuites>

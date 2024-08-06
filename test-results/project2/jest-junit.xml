@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="3" failures="0" errors="0" time="2.654">
+  <testsuite name="AppComponent" errors="0" failures="0" skipped="0" timestamp="2024-08-06T13:32:59" time="1.784" tests="3">
+    <testcase classname="AppComponent should create the app" name="AppComponent should create the app" time="0.09">
+    </testcase>
+    <testcase classname="AppComponent should have the &apos;project2&apos; title" name="AppComponent should have the &apos;project2&apos; title" time="0.011">
+    </testcase>
+    <testcase classname="AppComponent should render title" name="AppComponent should render title" time="0.018">
+    </testcase>
+  </testsuite>
+</testsuites>
